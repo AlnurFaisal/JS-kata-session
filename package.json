@@ -1,0 +1,14 @@
+{
+  "name": "Assignment6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alnur_Faisal <alnurfaisal@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
