@@ -9,7 +9,7 @@ function firstNonConsecutive(arr) {
             return num;
         }
     }
-    return null;
+    return num;
 }
 
 
